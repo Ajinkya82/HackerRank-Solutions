@@ -1,3 +1,5 @@
+//Problem: https://www.hackerrank.com/challenges/bigger-is-greater
+//Java 8
 import java.io.*;
 import java.math.*;
 import java.security.*;
